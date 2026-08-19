@@ -1,0 +1,126 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Midnight Drive",
+      "artist": "Nova Ray",
+      "artistId": 1,
+      "genre": "Synthwave",
+      "duration": "03:45",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "image": "https://picsum.photos/seed/song1/500/500",
+      "description": "A dreamy synthwave track about driving through an empty city at night."
+    },
+    {
+      "id": 2,
+      "title": "Golden Hour",
+      "artist": "Nova Ray",
+      "artistId": 1,
+      "genre": "Synthwave",
+      "duration": "04:12",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "image": "https://picsum.photos/seed/song2/500/500",
+      "description": "Warm synth pads and a slow groove, perfect for sunsets."
+    },
+    {
+      "id": 3,
+      "title": "Paper Planes",
+      "artist": "Lila Moon",
+      "artistId": 2,
+      "genre": "Indie Pop",
+      "duration": "02:58",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "image": "https://picsum.photos/seed/song3/500/500",
+      "description": "An upbeat indie pop song about chasing small dreams."
+    },
+    {
+      "id": 4,
+      "title": "Quiet Streets",
+      "artist": "Lila Moon",
+      "artistId": 2,
+      "genre": "Indie Pop",
+      "duration": "03:20",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "image": "https://picsum.photos/seed/song4/500/500",
+      "description": "A soft acoustic-leaning track about late night walks."
+    },
+    {
+      "id": 5,
+      "title": "Bassline Riot",
+      "artist": "DJ Kairo",
+      "artistId": 3,
+      "genre": "Electronic",
+      "duration": "05:10",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "image": "https://picsum.photos/seed/song5/500/500",
+      "description": "High energy electronic track built for the dance floor."
+    },
+    {
+      "id": 6,
+      "title": "Neon Pulse",
+      "artist": "DJ Kairo",
+      "artistId": 3,
+      "genre": "Electronic",
+      "duration": "04:05",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "image": "https://picsum.photos/seed/song6/500/500",
+      "description": "Driving beats with bright neon-colored synth stabs."
+    },
+    {
+      "id": 7,
+      "title": "Homebound",
+      "artist": "Sara Vane",
+      "artistId": 4,
+      "genre": "Folk",
+      "duration": "03:50",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "image": "https://picsum.photos/seed/song7/500/500",
+      "description": "A gentle folk ballad about returning to where you belong."
+    },
+    {
+      "id": 8,
+      "title": "Wildflower",
+      "artist": "Sara Vane",
+      "artistId": 4,
+      "genre": "Folk",
+      "duration": "03:15",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "image": "https://picsum.photos/seed/song8/500/500",
+      "description": "Acoustic guitar and soft vocals about growing up slowly."
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Nova Ray",
+      "image": "https://picsum.photos/seed/artist1/500/500",
+      "genre": "Synthwave",
+      "description": "Nova Ray is an electronic producer known for cinematic synthwave soundscapes.",
+      "albums": ["After Hours", "City Lights"]
+    },
+    {
+      "id": 2,
+      "name": "Lila Moon",
+      "image": "https://picsum.photos/seed/artist2/500/500",
+      "genre": "Indie Pop",
+      "description": "Lila Moon writes warm, hook-driven indie pop about everyday life.",
+      "albums": ["Small Dreams"]
+    },
+    {
+      "id": 3,
+      "name": "DJ Kairo",
+      "image": "https://picsum.photos/seed/artist3/500/500",
+      "genre": "Electronic",
+      "description": "DJ Kairo is known for high-energy club and festival sets.",
+      "albums": []
+    },
+    {
+      "id": 4,
+      "name": "Sara Vane",
+      "image": "https://picsum.photos/seed/artist4/500/500",
+      "genre": "Folk",
+      "description": "Sara Vane is a singer-songwriter blending folk storytelling with soft acoustic arrangements.",
+      "albums": ["Homebound", "Quiet Roads"]
+    }
+  ]
+}

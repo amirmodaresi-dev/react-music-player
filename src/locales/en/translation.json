@@ -1,0 +1,67 @@
+{
+  "app": {
+    "name": "MusicHub"
+  },
+  "nav": {
+    "home": "Home",
+    "songs": "Songs",
+    "artists": "Artists",
+    "favorites": "Favorites",
+    "about": "About"
+  },
+  "home": {
+    "title": "Find your favorite music",
+    "subtitle": "Thousands of songs and artists in one place",
+    "browseSongs": "Browse Songs",
+    "popularSongs": "Popular Songs",
+    "popularArtists": "Popular Artists",
+    "genres": "Genres"
+  },
+  "common": {
+    "search": "Search song or artist...",
+    "viewDetails": "View Details",
+    "addFavorite": "Add to Favorites",
+    "removeFavorite": "Remove from Favorites",
+    "play": "Play",
+    "pause": "Pause",
+    "previous": "Previous",
+    "next": "Next",
+    "loading": "Loading...",
+    "error": "Failed to load data.",
+    "noResults": "No results found.",
+    "backHome": "Back to Home",
+    "genre": "Genre",
+    "artist": "Artist"
+  },
+  "songDetails": {
+    "notFound": "Song not found."
+  },
+  "artistDetails": {
+    "notFound": "Artist not found.",
+    "songs": "Songs by this artist",
+    "albums": "Albums",
+    "noAlbums": "No albums listed."
+  },
+  "favorites": {
+    "title": "Your favorite songs",
+    "empty": "You haven't added any songs to favorites yet."
+  },
+  "about": {
+    "title": "About MusicHub",
+    "text": "MusicHub is a modern digital streaming web application designed to deliver a seamless music exploration experience.",
+    "featuresTitle": "Key Features",
+    "feature1": "Modern and responsive user interface",
+    "feature2": "Full bilingual support (English & Persian)",
+    "feature3": "Seamless audio playback and playlist management"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "text": "The page you're looking for doesn't exist."
+  },
+  "footer": {
+    "text": "All rights reserved."
+  },
+  "player": {
+    "nothingPlaying": "Nothing is playing"
+  }
+}
